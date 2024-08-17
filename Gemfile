@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "jekyll-theme-yat"
 gem "jekyll-theme-clean-blog"
 gem "jekyll-theme-chirpy"
+gem "github-pages", group: :jekyll_plugins
